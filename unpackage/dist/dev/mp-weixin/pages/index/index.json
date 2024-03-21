@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "navigationBarBackgroundColor": "#fff",
+  "usingComponents": {
+    "navbar": "../../components/navbar/navbar"
+  }
+}
